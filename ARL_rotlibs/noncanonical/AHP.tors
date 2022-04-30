@@ -1,0 +1,6 @@
+AHP   CA    LOWER    N      H    0  80  2
+DAHP  CA    LOWER    N      H    0  80  2
+AHP   CA     C     UPPER    O    0  80  2
+DAHP  CA     C     UPPER    O    0  80  2
+AHP   CA     C      O     UPPER  0  80  2
+DAHP  CA     C      O     UPPER  0  80  2

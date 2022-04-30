@@ -1,0 +1,6 @@
+CPA   CA    LOWER    N      H    0  80  2
+DCPA  CA    LOWER    N      H    0  80  2
+CPA   CA     C     UPPER    O    0  80  2
+DCPA  CA     C     UPPER    O    0  80  2
+CPA   CA     C      O     UPPER  0  80  2
+DCPA  CA     C      O     UPPER  0  80  2

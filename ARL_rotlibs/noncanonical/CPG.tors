@@ -1,0 +1,6 @@
+CPG   CA    LOWER    N      CA2  0  80  2
+DCPG  CA    LOWER    N      CA2  0  80  2
+CPG   CA     C     UPPER    O    0  80  2
+DCPG  CA     C     UPPER    O    0  80  2
+CPG   CA     C      O     UPPER  0  80  2
+DCPG  CA     C      O     UPPER  0  80  2

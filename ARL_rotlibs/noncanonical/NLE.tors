@@ -1,0 +1,6 @@
+NLE   CA    LOWER    N      H    0  80  2
+DNLE  CA    LOWER    N      H    0  80  2
+NLE   CA     C     UPPER    O    0  80  2
+DNLE  CA     C     UPPER    O    0  80  2
+NLE   CA     C      O     UPPER  0  80  2
+DNLE  CA     C      O     UPPER  0  80  2

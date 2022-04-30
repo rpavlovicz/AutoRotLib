@@ -1,0 +1,6 @@
+HSM   CA    LOWER    N      H    0  80  2
+DHSM  CA    LOWER    N      H    0  80  2
+HSM   CA     C     UPPER    O    0  80  2
+DHSM  CA     C     UPPER    O    0  80  2
+HSM   CA     C      O     UPPER  0  80  2
+DHSM  CA     C      O     UPPER  0  80  2
