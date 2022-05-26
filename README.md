@@ -11,7 +11,7 @@
 
 aspartic acid example:
 
->OC(NC)[C@H](CC(=O)[O-])NC(C)=O
+"""OC(NC)[C@H](CC(=O)[O-])NC(C)=O"""
 
 2.) run the "charge_and_correct.py" script, providing the following inputs:
   text file with the amino acid SMILES string
